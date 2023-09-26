@@ -1,0 +1,101 @@
+.pre-footer {
+  background: #7854f7;
+  text-align: center;
+  padding: 70px 0;
+  margin-top: 5px;
+}
+
+.pre-footer h3 {
+  color: #fff;
+  font-family: Outfit;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.pre-footer p {
+  width: 870px;
+  height: 126px;
+  color: #fff;
+  margin: 20px auto;
+  /* text-align: center; */
+  font-family: Outfit;
+  /* font-size: 42px; */
+  font-size: 2.5rem;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+}
+
+.pre-footer button {
+  width: 157px;
+  padding: 14px 25px;
+  align-items: center;
+  border-radius: 5px;
+  background: #fff;
+  border: none;
+  font-size: 1.2rem;
+}
+
+.footer {
+  background-color: black;
+  color: #cdbec8;
+  margin-top: -20px;
+  padding-top: 10px;
+}
+
+.section1 {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.section1 ul li {
+  display: inline;
+}
+
+.section2 {
+  display: flex;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.section2 ul li {
+  list-style-type: none;
+  margin-bottom: 15px;
+}
+
+.location {
+  text-align: right;
+  margin-left: 150px;
+}
+
+.address {
+  width: 168.88px;
+  font-family: Outfit;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 140%;
+  letter-spacing: 0.16px;
+}
+
+.section1-demarcation {
+  width: 76%;
+  height: 1px;
+  background: #0b363b;
+  border: none;
+}
+
+.section2-demarcation {
+  background: rgba(255, 255, 255, 0.31);
+  height: 1px;
+  border: none;
+}
+
+.section3 {
+  display: flex;
+  justify-content: space-evenly;
+  width: 70%;
+}

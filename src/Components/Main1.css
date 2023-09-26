@@ -1,0 +1,128 @@
+.trust {
+  text-align: center;
+  font-family: "Outfit", sans-serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.logo-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 80%;
+  margin: 20px auto 70px auto;
+}
+
+.process {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 100px 60px;
+}
+
+.process img {
+  width: 35%;
+}
+
+h2 {
+  color: #39364e;
+  font-family: "Outfit", sans-serif;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 600;
+  width: 541px;
+  margin-bottom: 0;
+}
+
+.process-text > p {
+  color: #39364e;
+  font-family: "Outfit", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 27px;
+  letter-spacing: 0.18px;
+  width: 478px;
+}
+
+.process button {
+  border-radius: 50px;
+  background: #7854f7;
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  font-weight: 800;
+  font-family: "Outfit", sans-serif;
+  font-size: 1rem;
+}
+
+.feature {
+  background-color: #f5f4f0;
+  text-align: center;
+  padding: 70px 150px;
+  margin-bottom: 100px;
+}
+
+.feature-heading {
+  margin: 5px auto;
+  color: #39364e;
+  font-family: "Outfit", sans-serif;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 600;
+  width: 541px;
+  margin-bottom: 0;
+}
+
+.features {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.features div {
+  width: 25%;
+  padding: 20px;
+  text-align: center;
+}
+
+.purchase,
+.agency {
+  background-color: white;
+}
+
+.purchase h3 {
+  color: #39364e;
+  font-family: Poppins;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 27px;
+}
+
+.purchase p,
+.agency p {
+  font-family: "Outfit", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 27px;
+  color: #696969;
+}
+
+.strategy {
+  border-radius: 5px;
+  text-align: center;
+  color: white;
+  font-family: "Outfit", sans-serif;
+  background: #7854f7;
+}
+
+.strategy p {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 27px;
+}

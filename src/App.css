@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800&family=Poppins:wght@400;500;600;700;800&family=Work+Sans:wght@400;600;700;800&display=swap");
+
+body {
+  /* padding: 20px; */
+  /* font-family: "Work Sans", sans-serif; */
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: #fff;
+  color: #756bee;
+}

@@ -1,0 +1,26 @@
+.portfolio {
+  text-align: center;
+  font-size: 1.3rem;
+  width: 90%;
+  margin: 20px auto;
+}
+
+.portfolio_items {
+  display: grid;
+  grid-template-rows: repeat(2, 1fr);
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.portfolio_item {
+  text-align: center;
+  margin-right: 50px;
+}
+
+.portfolio_item img {
+  width: 80%;
+  margin-bottom: -40px;
+}
+.portfolio_item h3 {
+  margin-left: auto;
+  margin-right: auto;
+}
